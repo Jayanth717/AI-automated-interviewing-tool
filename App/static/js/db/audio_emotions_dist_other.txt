@@ -1,5 +1,5 @@
 EMOTION,VALUE
-Angry,21
+Angry,22
 Disgust,21
 Fear,1
 Happy,2
